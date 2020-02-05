@@ -2,4 +2,4 @@
 Solutions for Introdution to Databases academic course 
 
 Project: 
-Database for conferences organizer
+Database for professional conference organizer
